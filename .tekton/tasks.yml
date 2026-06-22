@@ -67,7 +67,7 @@ spec:
   workspaces:
     - name: source
   params:
-    - name: arges
+    - name: args
       description: Arguments to pass to jest
       type: string
       default: "-v"
